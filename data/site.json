@@ -1,0 +1,12 @@
+{
+  "_catatan": "Isi dengan data resmi. Nilai kosong = tampil sebagai 'belum tersedia'.",
+  "contact": { "email": "", "whatsapp": "", "instagram": "", "alamat": "" },
+  "stats": [
+    { "label": "Kegiatan terlaksana", "value": null },
+    { "label": "Dokumen SOP dan juknis tersedia", "value": null },
+    { "label": "Kesiapan perlengkapan", "value": null, "suffix": "%" },
+    { "label": "Kegiatan telah dievaluasi", "value": null }
+  ],
+  "team": [],
+  "safetyDoc": ""
+}

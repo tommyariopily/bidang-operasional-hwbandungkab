@@ -1,0 +1,10 @@
+[
+ {"nama":"Penyusunan Kalender Kegiatan Operasional","kategori":"Perencanaan","icon":"cal","deskripsi":"Menyusun jadwal kegiatan operasional Kwarda dalam satu kalender bersama.","status":"Belum dikonfirmasi"},
+ {"nama":"Standardisasi SOP Kegiatan Kepanduan","kategori":"Keselamatan","icon":"doc","deskripsi":"Menyeragamkan prosedur pelaksanaan kegiatan di seluruh tingkatan.","status":"Belum dikonfirmasi"},
+ {"nama":"Inventarisasi Perlengkapan Kepanduan","kategori":"Teknis Lapangan","icon":"box","deskripsi":"Mendata perlengkapan kegiatan beserta kondisi dan lokasinya.","status":"Belum dikonfirmasi"},
+ {"nama":"Penyusunan Juknis Perkemahan","kategori":"Perencanaan","icon":"tent","deskripsi":"Menyusun petunjuk teknis perkemahan, dari persiapan sampai penutupan.","status":"Belum dikonfirmasi"},
+ {"nama":"Pelatihan Keterampilan Lapangan","kategori":"Teknis Lapangan","icon":"flag","deskripsi":"Melatih keterampilan lapangan seperti tali-temali, navigasi, dan kemah.","status":"Belum dikonfirmasi"},
+ {"nama":"Simulasi Keselamatan Kegiatan","kategori":"Keselamatan","icon":"safe","deskripsi":"Latihan penanganan keadaan darurat dan evakuasi bagi panitia dan pembina.","status":"Belum dikonfirmasi"},
+ {"nama":"Pendampingan Operasional Kwartir Cabang","kategori":"Teknis Lapangan","icon":"users","deskripsi":"Mendampingi Kwartir Cabang dalam kebutuhan teknis penyelenggaraan kegiatan.","status":"Belum dikonfirmasi"},
+ {"nama":"Evaluasi dan Dokumentasi Operasional","kategori":"Evaluasi","icon":"chart","deskripsi":"Mengevaluasi kegiatan dan mendokumentasikan laporan operasional.","status":"Belum dikonfirmasi"}
+]
