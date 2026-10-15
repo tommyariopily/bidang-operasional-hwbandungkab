@@ -1,6 +1,6 @@
 {
   "_catatan": "Isi dengan data resmi. Nilai kosong = tampil sebagai 'belum tersedia'.",
-  "contact": { "email": "", "whatsapp": "6285891456332", "instagram": "@kwarda_kab.bandung", "alamat": "" },
+  "contact": { "email": "", "whatsapp": "6285891456332", "instagram": "@kwarda_kab.bandung", "alamat": "https://www.instagram.com/kwarda_kab.bandung/" },
   "stats": [
     { "label": "Kegiatan terlaksana", "value": null },
     { "label": "Dokumen SOP dan juknis tersedia", "value": null },
